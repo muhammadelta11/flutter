@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786755895019",
+    "project_id": "mobile-academy-de38e",
+    "storage_bucket": "mobile-academy-de38e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786755895019:android:b8bb9110c197ab2f6348ae",
+        "android_client_info": {
+          "package_name": "com.aceviral.mobacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjXWo0nQCsKQPCW3AweZ_zesMCwKHofJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
